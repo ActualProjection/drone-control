@@ -1,0 +1,30 @@
+{
+  "name": "drone-control",
+  "version": "0.0.1",
+  "description": "automated control code for an Parot AR drone, oil spill detection, and possibly human avoidance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ActualProjection/drone-control.git"
+  },
+  "keywords": [
+    "drone",
+    "ar-drone",
+    "automation",
+    "oil"
+  ],
+  "author": "Patrick Forringer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ActualProjection/drone-control/issues"
+  },
+  "homepage": "https://github.com/ActualProjection/drone-control#readme",
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "ardrone-autonomy": "^0.1.2",
+    "opencv": "^3.0.0"
+  }
+}
