@@ -43,7 +43,7 @@ High Priority
 - [ ] Use opencv to detect a line on the floor and follow it
 - [ ] Use opencv to detect a seperate marker that signifies an oil spill
 - [x] When detecting an oil spill warn the operator
-- [ ] Debounce the found indicator function, or only allow it to be called once.
+- [x] Debounce the found_indicator function, or only allow it to be called once.
 
 Low priority
 - [ ] Stop the drone from moving forward if it detects a face
