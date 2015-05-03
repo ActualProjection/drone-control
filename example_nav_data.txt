@@ -1,0 +1,233 @@
+{
+  "header": 1432778632,
+  "droneState": {
+    "flying": 0,
+    "videoEnabled": 0,
+    "visionEnabled": 0,
+    "controlAlgorithm": 0,
+    "altitudeControlAlgorithm": 1,
+    "startButtonState": 0,
+    "controlCommandAck": 1,
+    "cameraReady": 1,
+    "travellingEnabled": 0,
+    "usbReady": 0,
+    "navdataDemo": 1,
+    "navdataBootstrap": 0,
+    "motorProblem": 0,
+    "communicationLost": 0,
+    "softwareFault": 0,
+    "lowBattery": 0,
+    "userEmergencyLanding": 0,
+    "timerElapsed": 0,
+    "MagnometerNeedsCalibration": 1,
+    "anglesOutOfRange": 0,
+    "tooMuchWind": 0,
+    "ultrasonicSensorDeaf": 0,
+    "cutoutDetected": 0,
+    "picVersionNumberOk": 1,
+    "atCodecThreadOn": 1,
+    "navdataThreadOn": 1,
+    "videoThreadOn": 1,
+    "acquisitionThreadOn": 1,
+    "controlWatchdogDelay": 0,
+    "adcWatchdogDelay": 0,
+    "comWatchdogProblem": 0,
+    "emergencyLanding": 0
+  },
+  "sequenceNumber": 12817,
+  "visionFlag": 1,
+  "demo": {
+    "controlState": "CTRL_LANDED",
+    "flyState": "FLYING_OK",
+    "batteryPercentage": 62,
+    "rotation": {
+      "frontBack": 2.124,
+      "pitch": 2.124,
+      "theta": 2.124,
+      "y": 2.124,
+      "leftRight": 1.286,
+      "roll": 1.286,
+      "phi": 1.286,
+      "x": 1.286,
+      "clockwise": 24.212,
+      "yaw": 24.212,
+      "psi": 24.212,
+      "z": 24.212
+    },
+    "frontBackDegrees": 2.124,
+    "leftRightDegrees": 1.286,
+    "clockwiseDegrees": 24.212,
+    "altitude": 0,
+    "altitudeMeters": 0,
+    "velocity": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "xVelocity": 0,
+    "yVelocity": 0,
+    "zVelocity": 0,
+    "frameIndex": 0,
+    "detection": {
+      "camera": {
+        "rotation": {
+          "m11": 0,
+          "m12": 0,
+          "m13": 0,
+          "m21": 0,
+          "m22": 0,
+          "m23": 0,
+          "m31": 0,
+          "m32": 0,
+          "m33": 0
+        },
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "type": 3
+      },
+      "tagIndex": 0
+    },
+    "drone": {
+      "camera": {
+        "rotation": {
+          "m11": 0.9114027619361877,
+          "m12": -0.409262090921402,
+          "m13": 0.043006207793951035,
+          "m21": 0.40984299778938293,
+          "m22": 0.9121407270431519,
+          "m23": -0.005287664942443371,
+          "m31": -0.03706367686390877,
+          "m32": 0.022444985806941986,
+          "m33": 0.9990608096122742
+        },
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": -239
+        }
+      }
+    }
+  },
+  "visionDetect": {
+    "nbDetected": 0,
+    "type": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "xc": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "yc": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "width": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "height": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "dist": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "orientationAngle": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      {
+        "m11": 0,
+        "m12": 0,
+        "m13": 0,
+        "m21": 0,
+        "m22": 0,
+        "m23": 0,
+        "m31": 0,
+        "m32": 0,
+        "m33": 0
+      },
+      {
+        "m11": 0,
+        "m12": 0,
+        "m13": 0,
+        "m21": 0,
+        "m22": 0,
+        "m23": 0,
+        "m31": 0,
+        "m32": 0,
+        "m33": 0
+      },
+      {
+        "m11": 0,
+        "m12": 0,
+        "m13": 0,
+        "m21": 0,
+        "m22": 0,
+        "m23": 0,
+        "m31": 0,
+        "m32": 0,
+        "m33": 0
+      },
+      {
+        "m11": 0,
+        "m12": 0,
+        "m13": 0,
+        "m21": 0,
+        "m22": 0,
+        "m23": 0,
+        "m31": 0,
+        "m32": 0,
+        "m33": 0
+      }
+    ],
+    "translation": [
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    ],
+    "cameraSource": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

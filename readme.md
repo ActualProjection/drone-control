@@ -1,5 +1,9 @@
 # Project goals
 
+A drone that can use openCV to detect "oil spills"
+
+Not to fly into anyone.
+
 # Instalation
 
 ## OSX Instalation
