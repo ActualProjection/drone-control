@@ -38,11 +38,12 @@ TODO!
 # TODO:
 
 High Priority
-- [ ] Open CV drone command loop for drone feedback and control
-- [ ] Process exitor event watchign function that lands drone on code failure or exit
+- [x] Open CV drone command loop for drone feedback and control
+- [x] Process exitor event watching function that lands drone on code failure or exit
 - [ ] Use opencv to detect a line on the floor and follow it
 - [ ] Use opencv to detect a seperate marker that signifies an oil spill
-- [ ] When detecting an oil spill warn the operator
+- [x] When detecting an oil spill warn the operator
+- [ ] Debounce the found indicator function, or only allow it to be called once.
 
 Low priority
 - [ ] Stop the drone from moving forward if it detects a face
